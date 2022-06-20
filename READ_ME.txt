@@ -1,6 +1,11 @@
 OVERVIEW OF THE MATERIAL
 
 CSV Files
+
+The list of Green and Amber genes in Structural Eye disease has been downloaded from https://panelapp.genomicsengland.co.uk/panels/509/
+version 1.3
+Files contain human-mouse syntenic Long Range Interactions(hmsLRI) in which a green or amber gene is involved:
+
 	"hmsLRI's_Promoter_within_Green_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of a Green Gene
 	"hmsLRI's_Enhancer_within_Green_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Green Gene region
 	"hmsLRI's_Promoter_within_Amber_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of an Amber Gene
