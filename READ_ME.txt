@@ -31,6 +31,8 @@ Genome Browser track hub
 
 	UCSC Genome Browser
 	The hmsLRI are available as a remote track hub for UCSC Genome Browser, the interactions are represented using
-	different colors based on if the involved gene is a Green gene or an Amber gene
+	different colors based on if the involved gene is a Green gene or an Amber gene and in a separate track there 
+	are the interactions involving a gene identified by Fitzpatrick (Red) and the list of eye development genes (blue);
+	Below each interactions track there is a track with the enhancer node regions
 	You can browse them at: http://genome.ucsc.edu/cgi-bin/hgHubConnect?redirect=manual&source=genome.ucsc.edu
 	Under the section "My Hubs" you can insert the following URL and add the Hub: https://github.com/CatonaO/UCSC_Track_hub_hmsLRI_in_Eye_disease/raw/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt 
