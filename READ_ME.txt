@@ -6,23 +6,41 @@ The list of Green and Amber genes in Structural Eye disease has been downloaded 
 version 1.3
 Files contain human-mouse syntenic Long Range Interactions(hmsLRI) in which a green or amber gene is involved:
 	hmsLRI list files
-	"hmsLRI's_Promoter_within_Green_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of a Green Gene
+	"hmsLRI's_Promoter_within_Green_Genes.csv": List of hmsLRI in which the promoter anchor overlaps the promoter
+	of a Green Gene (defined as ± 2.5kb of TSS)
+	
 	"hmsLRI's_Enhancer_within_Green_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Green Gene region
-	"hmsLRI's_Promoter_within_Amber_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of an Amber Gene
+	
+	"hmsLRI's_Promoter_within_Amber_Genes.csv": List of hmsLRI in which the promoter anchor overlaps the promoter 
+	of an Amber Gene (defined as ± 2.5kb of TSS)
+	
 	"hmsLRI's_Enhancer_within_Amber_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Amber Gene region
-	"hmsLRI's_Promoter_within_Fitzpatrick_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of a Fitzpatrick Gene
+	
+	"hmsLRI's_Promoter_within_Fitzpatrick_Genes.csv": List of hmsLRI in which the promoter anchor overlaps the promoter 
+	of a Fitzpatrick Gene (defined as ± 2.5kb of TSS)
+	
 	"hmsLRI's_Enhancer_within_Fitzpatrick_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Fitzpatrick Gene region
-	"hmsLRI's_Promoter_within_Eye_development_Genes.csv": List of hmsLRI in which the promoter anchor is the promoter of an Eye development Gene
+	
+	"hmsLRI's_Promoter_within_Eye_development_Genes.csv": List of hmsLRI in which the promoter anchor overlaps the promoter 
+	of an Eye development Gene (defined as ± 2.5kb of TSS)
+	
 	"hmsLRI's_Enhancer_within_Eye_development_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Eye development Gene region
 	
 	Enhancer nodes files
 	"Nodes_Promoter_in_Green_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Green Gene
+	
 	"Nodes_in_Green_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Green Gene region
+	
 	"Nodes_Promoter_in_Amber_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Amber Gene
+	
 	"Nodes_in_Amber_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Amber Gene region
+	
 	"Nodes_Promoter_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Fitzpatrick Gene
+	
 	"Nodes_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Fitzpatrick Gene region
+	
 	"Nodes_Promoter_in_Eye_development_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Eye development Gene
+	
 	"Nodes_in_Eye_development_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Eye development Gene region
 
 	
