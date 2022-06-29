@@ -28,18 +28,22 @@ Files contain human-mouse syntenic Long Range Interactions(hmsLRI) in which a gr
 	
 	Enhancer nodes files
 	"Nodes_Promoter_in_Green_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Green Gene
+	(defined as ± 2.5kb of TSS)
 	
 	"Nodes_in_Green_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Green Gene region
 	
 	"Nodes_Promoter_in_Amber_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Amber Gene
+	(defined as ± 2.5kb of TSS)
 	
 	"Nodes_in_Amber_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Amber Gene region
 	
 	"Nodes_Promoter_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Fitzpatrick Gene
+	(defined as ± 2.5kb of TSS)
 	
 	"Nodes_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Fitzpatrick Gene region
 	
 	"Nodes_Promoter_in_Eye_development_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Eye development Gene
+	(defined as ± 2.5kb of TSS)
 	
 	"Nodes_in_Eye_development_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Eye development Gene region
 
