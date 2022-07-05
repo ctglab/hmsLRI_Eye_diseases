@@ -27,25 +27,25 @@ Files contain human-mouse syntenic Long Range Interactions(hmsLRI) in which a gr
 	"hmsLRI's_Enhancer_within_Eye_development_Genes.csv": List of hmsLRI in which the enhancer anchor is within a Eye development Gene region
 	
 	Enhancer nodes files
-	"Nodes_Promoter_in_Green_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Green Gene
+	"Enhancer_Nodes_Connected_to_Green_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Green Gene
 	(defined as ± 2.5kb of TSS)
 	
-	"Nodes_in_Green_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Green Gene region
+	"Enhancer_Nodes_within_Green_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Green Gene region
 	
-	"Nodes_Promoter_in_Amber_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Amber Gene
+	"Enhancer_Nodes_Connected_to_Amber_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Amber Gene
 	(defined as ± 2.5kb of TSS)
 	
-	"Nodes_in_Amber_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Amber Gene region
+	"Enhancer_Nodes_within_Amber_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Amber Gene region
 	
-	"Nodes_Promoter_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Fitzpatrick Gene
+	"Enhancer_Nodes_Connected_to_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of a Fitzpatrick Gene
 	(defined as ± 2.5kb of TSS)
 	
-	"Nodes_in_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Fitzpatrick Gene region
+	"Enhancer_Nodes_within_Fitzpatrick_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Fitzpatrick Gene region
 	
-	"Nodes_Promoter_in_Eye_development_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an Eye development Gene
-	(defined as ± 2.5kb of TSS)
+	"Enhancer_Nodes_Connected_to_Eye_development_Genes.csv": List of Enhancer nodes in which the promoter anchor is the promoter of an 
+	Eye development Gene (defined as ± 2.5kb of TSS)
 	
-	"Nodes_in_Eye_development_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Eye development Gene region
+	"Enhancer_Nodes_within_Eye_development_Genes.csv": List of Enhancer nodes in which the enhancer anchor is within a Eye development Gene region
 
 	
 
@@ -57,4 +57,4 @@ Genome Browser track hub
 	are the interactions involving a gene identified by Fitzpatrick (Red) and the list of eye development genes (blue);
 	Below each interactions track there is a track with the enhancer node regions
 	You can browse them at: http://genome.ucsc.edu/cgi-bin/hgHubConnect?redirect=manual&source=genome.ucsc.edu
-	Under the section "My Hubs" you can insert the following URL and add the Hub: https://github.com/CatonaO/UCSC_Track_hub_hmsLRI_in_Eye_disease/raw/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt 
+	Under the section "My Hubs" you can insert the following URL and add the Hub: https://github.com/ctglab/UCSC_Track_hub_hmsLRI_in_Eye_disease/raw/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt 
