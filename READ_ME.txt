@@ -57,4 +57,4 @@ Genome Browser track hub
 	are the interactions involving a gene identified by Fitzpatrick (Red) and the list of eye development genes (blue);
 	Below each interactions track there is a track with the enhancer node regions
 	You can browse them at: http://genome.ucsc.edu/cgi-bin/hgHubConnect?redirect=manual&source=genome.ucsc.edu
-	Under the section "My Hubs" you can insert the following URL and add the Hub: https://github.com/ctglab/UCSC_Track_hub_hmsLRI_in_Eye_disease/raw/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt 
+	Under the section "My Hubs" you can insert the following URL and add the Hub: https://github.com/ctglab/UCSC_Track_hub_hmsLRI_Eye_diseases/raw/main/UCSC_Genome_Browser_hub/hubDirectory/hub.txt 
